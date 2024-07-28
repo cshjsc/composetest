@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">fbimostwanted</string>
+    <string name="detail">Detail</string>
+    <string name="name">Name</string>
+    <string name="gender">gender</string>
+    <string name="race">Race</string>
+    <string name="most_wanted_title">FBI Most Wanted</string>
+</resources>
